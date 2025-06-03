@@ -20,4 +20,8 @@ primary_region = 'ams'
   memory = '1gb'
   cpu_kind = 'shared'
   cpus = 1
+<<<<<<< HEAD
   memory_mb = 1024
+=======
+  memory_mb = 1024
+>>>>>>> 53a326f74eac4b4d418f239d42f2004749bc51b1
